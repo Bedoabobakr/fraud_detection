@@ -1,0 +1,8 @@
+{
+  "model": "Logistic Regression",
+  "threshold": 0.92,
+  "fp_cost": 10.0,
+  "test_pr_auc": 1.0,
+  "test_recall": 1.0,
+  "test_precision": 1.0
+}
